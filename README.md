@@ -200,3 +200,6 @@ Scikit-learn
 Plotly
 
 Streamlit
+
+openpyxl
+
