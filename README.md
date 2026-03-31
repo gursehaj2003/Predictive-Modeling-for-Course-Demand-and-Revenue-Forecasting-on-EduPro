@@ -203,3 +203,7 @@ Streamlit
 
 openpyxl
 
+
+open score deployment:
+streamlit working link- https://5fnmqybescck4kuzfzjokf.streamlit.app/
+
