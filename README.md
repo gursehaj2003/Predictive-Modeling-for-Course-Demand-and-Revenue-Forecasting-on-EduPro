@@ -131,7 +131,7 @@ Installation
 Clone the repository and install the project dependencies.
 
 bash
-git clone https://github.com/your-username/edupro-course-demand-forecasting.git
+git clone(https://github.com/gursehaj2003/Predictive-Modeling-for-Course-Demand-and-Revenue-Forecasting-on-EduPro)
 cd edupro-course-demand-forecasting
 pip install -r requirements.txt
 For Streamlit deployments, a concise requirements.txt is preferred over dumping every package from the local environment, because extra packages can make deployment unstable or unnecessarily heavy.
