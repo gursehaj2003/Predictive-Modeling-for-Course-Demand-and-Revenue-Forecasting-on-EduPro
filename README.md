@@ -201,8 +201,6 @@ Plotly
 
 Streamlit
 
-LIVE DEMO :  https://drive.google.com/drive/folders/1kp5nd73IWqvP_CKqUKwNajThj0tTmyLX?usp=sharing
-
 
 open score deployment:
 streamlit working link- https://5fnmqybescck4kuzfzjokf.streamlit.app/
